@@ -4,7 +4,7 @@ This is the source code for paper "Nugget Proposal Networks for Chinese Event De
 
 ## Requirements
 
-Tensorflow >= 1.2.0
+* Tensorflow >= 1.2.0
 
 ## Usage
 First, please unzip the word2vec embeddings in "src/"
