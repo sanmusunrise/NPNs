@@ -1,0 +1,6 @@
+#BeginOfDocument sample
+sys	sample	E1	2,8	murder	Conflict_Attack	Actual
+sys	sample	E2	12,16	kill	Conflict_Attack	Actual
+@Coreference	R1	E1,E2
+#EndOfDocument
+

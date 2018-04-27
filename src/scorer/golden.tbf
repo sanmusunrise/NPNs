@@ -1,0 +1,5 @@
+#BeginOfDocument sample
+sys	sample	E1	2,8	murder	Conflict:Attack	Actual
+sys	sample	E2	12,16	kill	Conflict:Attack	Actual
+#EndOfDocument
+

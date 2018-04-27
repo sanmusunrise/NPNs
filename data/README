@@ -1,0 +1,14 @@
+Due to the LDC's license, we can not re-distribute the data we used in our experiments(Both ACE and KBP datasets).
+
+The LDC numbers of datasets we used are:
+LDC2006T06(ACE2005)
+LDC2017E54(TAC KBP 2017 Evaluation)
+LDC2015E78
+LDC2015E105
+LDC2015E112
+LDC2017E02
+
+
+If you have the license for all above data, you can send an email to me to request for the pre-processed tools(or data) we used in our experiments.
+
+My email address: hongyu2016@iscas.ac.cn
