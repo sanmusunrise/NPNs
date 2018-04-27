@@ -16,7 +16,7 @@ Then enter src dir, run the program like
 
 * python NPN_TS.py kbp_config.cfg
 
-All hyperparameters in our paper are saved in configure file "kbp_config.cfg" or "ace_config.cfg".
+Hyperparameters in our paper are saved in configure file "kbp_config.cfg" or "ace_config.cfg".
 
 ## Citation
 Please cite:
