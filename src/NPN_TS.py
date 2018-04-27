@@ -407,7 +407,7 @@ class NPN:
         self.char_embeddings = GloveEmbeddings(self.char_embeddings_file, self.char2cnt)
         self.word_embeddings = GloveEmbeddings(self.word_embeddings_file, self.word2cnt)
 
-import sys
+
 if __name__ == "__main__":
     confs = Configure(sys.argv[1])
     # model_save_path = "model/"
