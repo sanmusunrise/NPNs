@@ -20,7 +20,7 @@ All hyperparameters in our paper are saved in configure file "kbp_config.cfg" or
 
 ## Citation
 Please cite:
-* Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun. Nugget Proposal Networks for Chinese Event Detection. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics.
+* Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun. *Nugget Proposal Networks for Chinese Event Detection*. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics.
 
 ## Contact
 If you have any question or want to request for the data(only if you have the license from LDC), please contact me by
