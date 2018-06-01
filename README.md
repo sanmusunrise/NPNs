@@ -29,7 +29,7 @@ Please cite:
   booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},
   month     = {July},
   year      = {2018},
-  address   = {Melbourne, Australia},
+  location   = {Melbourne, Australia},
   publisher = {Association for Computational Linguistics},
 }
 ```
